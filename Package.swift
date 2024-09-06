@@ -21,7 +21,7 @@ let package = Package(
     dependencies: [
         .package(
             url: "https://github.com/apple/swift-syntax.git",
-            from: "509.0.2")
+            from: "510.0.3")
     ],
     targets: [
         .target(
